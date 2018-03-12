@@ -1,5 +1,5 @@
 # Write your #display_rainbow method here
 
-def display_rainbow([])
-  puts "R: #{display_rainbow[0], O: #{display_rainbow[1],} "
+def display_rainbow([array])
+  puts "R: #{array[0]}, O: #{array[1]}, "
 end
